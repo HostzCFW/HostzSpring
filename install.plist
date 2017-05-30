@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://hostzcfw.com/Downloads/HostzSpring.ipa</string>
+					<string>https://pgyer.com/app/download/1e8712ce29cd7cfc33bb696400a45ea5</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>hostzcfw.hostzspring.jail</string>
+				<string>kim.cracksby.yalu102</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>HostzSpring @HostzCFW</string>
+				<string>Yalu / @yassineayouch</string>
 			</dict>
 		</dict>
 	</array>
